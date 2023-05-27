@@ -1,16 +1,14 @@
 # news_app
 
-A new Flutter project.
 
-## Getting Started
+----------Application tutorial video----------
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+https://github.com/harshilgujarati/News_app/assets/131511029/a1ddf8ab-3f9a-4812-a71b-501e85c09ebb
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+-----------Application photo--------------
+
+<img align="left" src="https://github.com/harshilgujarati/News_app/assets/131511029/2de7e5de-fb96-4535-a0e0-ba2573665c1a" width="220px">
+<img align="left" src="https://github.com/harshilgujarati/News_app/assets/131511029/e1ce123d-3a91-4e9b-89ea-e3641dad223d" width="220px">
+<img align="left" src="https://github.com/harshilgujarati/News_app/assets/131511029/646260c0-1198-41c0-a7c7-1fb33eb519f7" width="220px">
